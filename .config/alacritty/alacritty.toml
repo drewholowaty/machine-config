@@ -1,0 +1,12 @@
+[font]
+size = 10.0
+
+[window]
+decorations = "none"
+
+[keyboard]
+bindings = [
+    { key = "B", mods = "Control", mode = "Vi|~Search", action = "ReceiveChar" },
+]
+[general]
+
