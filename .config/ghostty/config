@@ -1,0 +1,17 @@
+# Documentation: https://ghostty.org/docs/config/reference
+
+# ui/ux
+window-padding-y = 0,4
+window-decoration = none
+window-show-tab-bar = never
+background = #181818
+
+# cursor and font
+shell-integration-features = no-cursor
+cursor-style = block
+cursor-style-blink = false
+font-family = Monospace
+
+# misc
+bell-features = no-title
+
